@@ -1,0 +1,1 @@
+This project explores the global impact of the COVID-19 pandemic using SQL Server. The dataset contains worldwide records of cases, deaths, vaccinations, and population statistics. The goal of this project is to perform Exploratory Data Analysis (EDA) on the COVID-19 dataset to uncover trends, patterns, and insights about how the pandemic has affected different regions.
